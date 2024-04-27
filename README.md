@@ -28,5 +28,6 @@ If you encounter any issues or have questions about using the MyToken contract, 
 
 Author
 John Dave M. Inocencio
-License
+
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
